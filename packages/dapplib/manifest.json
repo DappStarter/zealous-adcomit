@@ -1,0 +1,8 @@
+{
+    "name": "matic-start",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/vanilla": true
+    }
+}
